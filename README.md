@@ -6,9 +6,7 @@
 ---
 
 ### 👨‍💻 About Me
-Junior Backend Developer with strong skills in building **RESTful APIs** using **Node.js** and **MongoDB**.  
-Passionate about clean code, solving backend challenges, and contributing to real-world projects.  
-Ready to grow in a collaborative engineering team.
+Backend Engineer focused on building clean, scalable, and production-ready APIs with **TypeScript**, **Node.js**, **Express**, and **PostgreSQL**.
 
 ---
 
